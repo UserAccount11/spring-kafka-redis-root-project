@@ -1,0 +1,5 @@
+rootProject.name = 'spring-kafka-redis-root-project'
+
+include 'news-api'
+include 'worker-service'
+
